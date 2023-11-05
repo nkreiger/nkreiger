@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noah Kreiger</h1>
-<h3 align="center">Software Engineer at <3 Experienced with Full-Stack JS, GoLang, DevSecOps Securing the software supply chain :)</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nkreiger" alt="nkreiger" /></a> </p>
+<h3 align="center">Experienced Software Engineer who enjoys solving complex problems with innovative, and performant solutions</h3>
 
 - 🔭 I’m currently working on [Fianu Labs](https://github.com/fianulabs)
-
-- 👨‍💻 All of my projects are available at [https://github.com/nkreiger](https://github.com/nkreiger)
 
 - 📝 I regularly write articles on [https://medium.com/@noahkreiger](https://medium.com/@noahkreiger)
 
@@ -15,7 +11,6 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/noahkreiger](www.linkedin.com/in/noahkreiger)
 
-- ⚡ Fun fact **No fun, just code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
